@@ -1,0 +1,10 @@
+node_modules
+dist
+demo-screenshots
+checkpoints
+api.log
+api.err
+vite.log
+vite.err
+.env
+*.tsbuildinfo
